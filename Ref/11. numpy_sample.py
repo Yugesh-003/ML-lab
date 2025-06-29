@@ -580,4 +580,3 @@ import numpy as np
 arr = np.arange(25).reshape(5,5)
 print(np.tril(arr,k = 1))
 #print(arr)
-   
