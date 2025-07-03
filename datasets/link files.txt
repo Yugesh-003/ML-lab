@@ -1,0 +1,17 @@
+https://drive.google.com/file/d/1MH1aAg8uYRcQKagEySlYOXyYx7yhhapV/view?usp=sharing
+
+Logistic Regression  -  Diabetes Prediction
+https://drive.google.com/file/d/1NPdl1TFyoiI6PNfczvE4iKhjxx7AP0uM/view?usp=sharing
+
+
+Cross validation
+https://colab.research.google.com/drive/1DpHdz4QW4MKU3KmBD-htaHfUi-0cR3j5?usp=sharing
+
+Two Sample T-test
+https://colab.research.google.com/drive/1dGSevrgpWXwhe9slBhI66Ju22G_u6sgx?usp=sharing
+
+distributions
+https://colab.research.google.com/drive/1a-WfXbMQ4GokEyx1_F9IaoQXqbrefEvW
+
+Chi Squared Test (Independence of Attributes)
+https://colab.research.google.com/drive/1u3EIUh7eqxxP7pQVqgyvRqctmSvr9T-N?usp=sharing
