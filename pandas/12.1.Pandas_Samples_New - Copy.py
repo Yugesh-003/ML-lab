@@ -412,7 +412,7 @@ df.groupby('year')['lifeExp']
 # In[24]:
 
 
-##### What was the average life expectency , for each yaer in our data?????    #####
+##### What was the average life expectency , for each year in our data?????    #####
 df.groupby('year')['lifeExp'].mean()
 
 
