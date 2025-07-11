@@ -251,7 +251,7 @@ df3
 # In[46]:
 
 
-df3.dropna(axis=1)  # All columns are having NaN. So it will return row heading only. axis = 1 represents column (y axis)
+df3.dropna(axis=1)  # All columns are having NaN. So it will r eturn row heading only. axis = 1 represents column (y axis)
 
 
 # In[22]:
@@ -325,7 +325,7 @@ df4
 # In[11]:
 
 
-print(np.random.randn(5))
+print(np.random.randn(5)) 
 
 
 # In[10]:
