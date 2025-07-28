@@ -1,0 +1,46 @@
+,S.No,PART,UNIT,QUESTION,Option A,Option B,Option C,Option D,K LEVEL,CO LEVEL,CIA
+0,1,A,1,Which of the following is the full form of RDBMS?,Relational Data Management System,Relational Database Management System,Relational Design Management System,None of the above,K1,CO1,CIA 1
+1,2,A,1,Explain the term “random access” in the context of direct access storage.,Functional dependencies,Designer,Access the data anywhere in the file,None of the above,K2,CO1,CIA 1
+2,3,A,1,Demonstrate how raw data can be converted into meaningful information,,,,,K3,CO1,CIA 1
+3,4,A,1,The dependency rules specified by the database designer are known as _______,,,,,K1,CO1,CIA 1
+4,5,A,1,Compare sequential access and random access in terms of retrieval time.,,,,,K2,CO1,CIA 1
+5,6,A,1,Choose the best secondary storage device for backing up critical system data and explain why.,,,,,K3,CO1,CIA 1
+6,7,A,1,What is an Instance of a Database?,The state of the database system at any given point of time,The entire set of attributes of the Database put together in a single relation,The initial values inserted into the Database immediately after its creation,The logical design of the database system,K1,CO1,CIA 1
+7,8,A,1,Illustrate the advantages of using secondary storage instead of primary memory in a database system.,,,,,K2,CO1,CIA 1
+8,9,A,1,Apply information system tools to support a store manager in making better decisions about pricing and inventory.,,,,,K3,CO1,CIA 1
+9,10,A,1,Define Information,,,,,K1,CO1,CIA 1
+10,11,A,1,Classify the types of file operations.,,,,,K2,CO1,CIA 1
+11,12,A,1,Utilize two different data sources to explain how integrated information can improve decision-making.,,,,,K3,CO1,CIA 1
+12,13,A,1,"If the database modifications occur while the transaction is still active, the transaction is said to use the __________ modification technique",Immediate,Deferred,More than one of the mentioned,None of the mentioned,K1,CO1,CIA 1
+13,14,A,1,Interpret the role of a read/write head in sequential access storage.,,,,,K2,CO1,CIA 1
+14,15,A,1,Construct a basic model of how information flows between departments in a company.,,,,,K3,CO1,CIA 1
+15,16,A,1,What are characteristic of high-quality information?,,,,,K1,CO1,CIA 1
+16,17,A,1,"Explain the difference between master files, transaction fileand report files",,,,,K2,CO1,CIA 1
+17,18,A,1,Demonstrate how a new record can be added to a sequential file.,,,,,K3,CO1,CIA 1
+18,19,A,1,Which of the following constraints RDBMS doesn’t check before creating the tables?,Not null,Primary keys,Data,Candidate Key,K1,CO1,CIA 1
+19,20,A,1,Compare data and information,,,,,K2,CO1,CIA 1
+20,21,A,1,Construct a use case where information integration supports better forecasting in business.,,,,,K3,CO1,CIA 1
+105,106,B,1,"Define data, information, and information processing.",,,,,K1,CO1,CIA 1
+106,107,B,1,Compare sequential and direct file organization techniques.,,,,,K2,CO1,CIA 1
+107,108,B,1,Demonstrate how a company can use Integrated Management Information.,,,,,K3,CO1,CIA 1
+108,109,B,1,Analyze the impact of low-quality information in enterprise decision-making.,,,,,K4,CO1,CIA 1
+109,110,B,1,Evaluate the quality of information from different sources.,,,,,K5,CO1,CIA 1
+110,111,B,1,Create a table outlining file structures with different record types.,,,,,K6,CO1,CIA 1
+111,112,B,1,List any three secondary storage devices and their uses,,,,,K1,CO1,CIA 1
+112,113,B,1,Explain the difference between data and information with examples.,,,,,K2,CO1,CIA 1
+113,114,B,1,Create a structure for a student records file with various record types.,,,,,K3,CO1,CIA 1
+114,115,B,1,"Examine how data, information, and knowledge are interrelated.",,,,,K4,CO1,CIA 1
+115,116,B,1,Recommend improvements in an enterprise’s current information system.,,,,,K5,CO1,CIA 1
+116,117,B,1,Formulate your own definition of quality information based on examples.,,,,,K6,CO1,CIA 1
+165,166,C,1,What is information processing? Explain its basic functions.,,,,,K1,CO1,CIA 1
+166,167,C,1,"Differentiate between data, information, and knowledge with examples.",,,,,K2,CO1,CIA 1
+167,168,C,1,Apply file organization principles to an online library system.,,,,,K3,CO1,CIA 1
+168,169,C,1,Compare and contrast direct and sequential access techniques with examples.,,,,,K4,CO1,CIA 1
+169,170,C,1,Assess the effectiveness of integrated management systems in supply chain operations.,,,,,K5,CO1,CIA 1
+170,171,C,1,Create a file organization system for a university's admission portal.,,,,,K6,CO1,CIA 1
+171,172,C,1,List the characteristics that define the quality of information.,,,,,K1,CO1,CIA 1
+172,173,C,1,Discuss the importance of quality information in a business environment.,,,,,K2,CO1,CIA 1
+173,174,C,1,Prepare a comparison table for different storage media in terms of speed and access.,,,,,K3,CO1,CIA 1
+174,175,C,1,Analyze the performance of different secondary storage devices in terms of cost.,,,,,K4,CO1,CIA 1
+175,176,C,1,Evaluate the efficiency of current information processing models in online businesses.,,,,,K5,CO1,CIA 1
+176,177,C,1,Develop a hybrid file access method combining sequential and direct access.,,,,,K6,CO1,CIA 1
