@@ -1,0 +1,12 @@
+3. Simple Linear Regression Exercise
+https://colab.research.google.com/drive/1NSZWVu7W2vtAYXgtXopKGaRW9oG2U-St?usp=sharing
+
+
+4. Multiple Linear Regression Exercise
+https://colab.research.google.com/drive/1LIrZ_ujJsnWQH6zkXv__v7FUSZpjtApH?usp=sharing
+
+5. Multiple Linear Regression with one hot encoding
+https://colab.research.google.com/drive/12mIBMoNRBKe4bCXL3jFGFfI92nOgiite?usp=sharing
+
+6. Multiple Linear Regression (Finding out balaced or imbalanced , outliers)
+https://colab.research.google.com/drive/1kIv0ZQYzAlnF3fOuA4wVnAsZpOvMt_lg?usp=sharing
